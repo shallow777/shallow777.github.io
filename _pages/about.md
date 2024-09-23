@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "He HaiXing"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a third year undergraduate student from SJTU major in information security. My research interest
+I am a third year undergraduate student from SJTU major in information security. My research interest includes applied cryptography.
+You can find my CV here: [CV](../HaixingHe2024.pdf)
